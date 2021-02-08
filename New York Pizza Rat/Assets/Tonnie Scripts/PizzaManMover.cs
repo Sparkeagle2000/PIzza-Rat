@@ -4,44 +4,50 @@ using UnityEngine;
 
 public class PizzaManMover : MonoBehaviour
 {
-    //public Transform[] waypoints;
-    //int cur = 0;
-/*
-    public float speed = 0.3f;
-    public Node startingpos;
-    public int scattertimer1=7, scattertimer2=5, chasetimer1=20;
-    private int modechange=1;
-    private float modetimer=0;
-    public enum Mode {
-        Chase,
-        Scatter,
-        Frightened
-    }
+    public Transform[] waypoints;
+    int cur = 0;
 
-    Mode currentMode=Mode.Scatter;
-    Mode previousMode;
+    public float speed;
+    //public Node startingpos;
+    //public int scattertimer1=7, scattertimer2=5, chasetimer1=20;
+    //private int modechange=1;
+    //private float modetimer=0;
+    //public enum Mode {
+    //    Chase,
+    //    Scatter,
+    //    Frightened
+    //}
 
-    private GameObject pizzarat;
-    private Node current, target, previous;
-    private Vector2 dir, nextdir;
+    //Mode currentMode=Mode.Scatter;
+    //Mode previousMode;
+
+    //private GameObject pizzarat;
+    //private Node current, target, previous;
+    //private Vector2 dir, nextdir;
 
     void Start ()
     {
+        /*
         pizzarat=GameObject.FindGameObjectWithTag("pizzarat");
-        Node node=GetNodeAtPosition(transform.localPosition);
+        Node node=GetNodeAtPosition(transform.position);
         if(node!=null)
         {
             current=node;
+            Debug.Log(current);
         }
-        direction=Vector2.up;
+        dir=Vector2.up;
         previous=current;
         Vector2 pizzaratPos=pizzarat.transform.position;
         Vector2 targetTile=new Vector2(Mathf.RoundToInt(pizzaratPos.x),Mathf.RoundToInt(pizzaratPos.y));
         target=GetNodeAtPosition(targetTile);
+
+        Debug.Log (target);
+        */
     }
 
     void FixedUpdate () {
         // Waypoint not reached yet? then move closer
+        
         if (transform.position != waypoints[cur].position) {
             Vector2 p = Vector2.MoveTowards(transform.position,
                                             waypoints[cur].position,
@@ -50,9 +56,10 @@ public class PizzaManMover : MonoBehaviour
         }
         // Waypoint reached, select next one
         else cur = (cur + 1) % waypoints.Length;
+        
 
-        ModeUpdate();
-        Move();
+        //ModeUpdate();
+        //Move();
 
         // Animation
     //    Vector2 dir = waypoints[cur].position - transform.position;
@@ -64,28 +71,30 @@ public class PizzaManMover : MonoBehaviour
         if (co.name == "pizzarat")
             Destroy(co.gameObject);
     }
-
+/*
     void Move()
     {
         if(target!=current &&target!=null)
         {
             if(OverShotTarget())
             {
+                Debug.Log("Overshot");
                 current=target;
                 transform.localPosition=current.transform.position;
-                GameObject otherPortal=GetPortal(current.transform.position);
-                if(otherPortal!=null)
-                {
-                    transform.localPosition=otherPortal.transform.position;
-                    current=otherPortal.GetComponent<Node>();
-                }
-                target=ChooseNectNode();
+                //GameObject otherPortal=GetPortal(current.transform.position);
+                //if(otherPortal!=null)
+                //{
+                //    transform.localPosition=otherPortal.transform.position;
+                //    current=otherPortal.GetComponent<Node>();
+                //}
+                target=ChooseNextNode();
                 previous=current;
                 current=null;
             }
             else
             {
-                transform.localPosition+=(Vector3)direction*speed*Time.deltaTime;
+                Debug.Log("Supposed to Move");
+                transform.localPosition+=(Vector3)dir*speed*Time.deltaTime;
             }
         }
     }
@@ -168,7 +177,7 @@ public class PizzaManMover : MonoBehaviour
         int nodecount=0;
         for(int i=0;i<current.neighbors.Length;i++)
         {
-            if(current.validDirections [i]!=direction*-1)
+            if(current.validDirections [i]!=dir*-1)
             {
                 foundNodes [nodecount]=current.neighbors [i];
                 foundNodesDir [nodecount]= current.validDirections [i];
@@ -178,7 +187,7 @@ public class PizzaManMover : MonoBehaviour
         if (foundNodes.Length==1)
         {
             moveToNode=foundNodes[0];
-            direction=foundNodesDir[0];
+            dir=foundNodesDir[0];
         }
         if (foundNodes.Length>1)
         {
@@ -192,7 +201,7 @@ public class PizzaManMover : MonoBehaviour
                     {
                         leastDis=distance;
                         moveToNode=foundNodes[i];
-                        distance=foundNodesDir [i];
+                        dir=foundNodesDir [i];
                     }
                 }
             }
@@ -202,11 +211,14 @@ public class PizzaManMover : MonoBehaviour
 
     Node GetNodeAtPosition (Vector2 pos)
     {
-        GameObject tile= GameObject.Find ("Game").GetComponent<GameBoard> ().board [(int)pos.x, (int)pos.y)];
+        GameObject tile= GameObject.Find ("Game").GetComponent<GameBoard> ().board [(int)pos.x, (int)pos.y];
+        Debug.Log(pos);
+
+        Debug.Log(tile);
 
         if(tile!=null)
         {
-            if(tile.GetComponent<Node>[]!=null)
+            if(tile.GetComponent<Node>()!=null)
             {
                 return tile.GetComponent<Node> ();
             }
@@ -214,9 +226,14 @@ public class PizzaManMover : MonoBehaviour
         return null;
     }
 
+//Node GetRandomNode ()
+//    {
+
+ //   }
+/*
     GameObject GetPortal (Vector2 pos)
     {
-        GameObject tile= GameObject.Find ("Game").GetComponent<GameBoard> ().board [(int)pos.x, (int)pos.y)];
+        GameObject tile= GameObject.Find ("Game").GetComponent<GameBoard> ().board [(int)pos.x, (int)pos.y];
 
         if(tile!=null)
         {
@@ -228,7 +245,8 @@ public class PizzaManMover : MonoBehaviour
         }
         return null;
     }
-
+    */
+/*
     float LengthFromNode (Vector2 targetPosition)
     {
         Vector2 vec=targetPosition-(Vector2)previous.transform.position;
