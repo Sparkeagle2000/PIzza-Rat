@@ -6,6 +6,7 @@ public class PizzaManMover : MonoBehaviour
 {
     public Transform[] waypoints;
     int cur = 0;
+    public bool run=false;
 
     public float speed;
     //public Node startingpos;
@@ -25,15 +26,6 @@ public class PizzaManMover : MonoBehaviour
     //private Node current, target, previous;
     //private Vector2 dir, nextdir;
 
-
-
-    public SpriteRenderer manSpriteRenderer;
-    //for death - Gary
-    public GameObject rat;
-    Animator ratDeath;
-    bool ratIsDead;
-    private AudioSource source;
-
     void Start ()
     {
         /*
@@ -52,12 +44,6 @@ public class PizzaManMover : MonoBehaviour
 
         Debug.Log (target);
         */
-
-
-        manSpriteRenderer = GetComponent<SpriteRenderer>();
-        ratDeath = rat.GetComponent<Animator>();
-        source = GetComponent<AudioSource>();
-
     }
 
     void FixedUpdate () {
@@ -77,43 +63,31 @@ public class PizzaManMover : MonoBehaviour
         //Move();
 
         // Animation
-        Vector2 dir = waypoints[cur].position - transform.position;
-        GetComponent<Animator>().SetFloat("DirX", dir.x);
-        GetComponent<Animator>().SetFloat("DirY", dir.y);
-
-
-
-        //Sprite Flipping - Gary
-        if (dir.x > 0)
-        {
-            if (manSpriteRenderer != null)
-            {
-                manSpriteRenderer.flipX = false;
-            }
-        }
-
-        if (dir.x < 0)
-        {
-            if (manSpriteRenderer != null)
-            {
-                manSpriteRenderer.flipX = true;
-            }
-        }
-
-
+    //    Vector2 dir = waypoints[cur].position - transform.position;
+     //   GetComponent<Animator>().SetFloat("DirX", dir.x);
+      //  GetComponent<Animator>().SetFloat("DirY", dir.y);
     }
 
     void OnTriggerEnter2D(Collider2D co) {
+        if (co.name == "pizzarat"&&run==false)
+            Destroy(co.gameObject);
+        else if(co.name=="pizzarat"&&run==true)
+        Destroy(this.gameObject);
+    }
 
-        // trying out a death sequence - Gary
-        if (co.name == "pizzarat")
+    public void RunEnergizer()
+    {
+        float countdown=6.0f;
+        run=true;
+        while(countdown>0)
         {
-            
-            rat.GetComponent<PlayerController>().ratIsDead = true;
-            source.Play();
+            countdown-=Time.deltaTime;
         }
-         
-
+        if(countdown<=0)
+        {
+            Debug.Log("Run is false now");
+            run=false;
+        }
     }
 /*
     void Move()
