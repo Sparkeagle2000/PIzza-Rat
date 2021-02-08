@@ -21,7 +21,7 @@ public class PlayerController : MonoBehaviour
     public bool ratIsDead;
     private AudioSource source;
     public int lives;
-    //public Text;
+  
 
     void Start() {
         //dest = transform.position;
@@ -37,7 +37,6 @@ public class PlayerController : MonoBehaviour
         ratIsDead = false;
         source = GetComponent<AudioSource>();
         lives = 3;
-
     }
 
 

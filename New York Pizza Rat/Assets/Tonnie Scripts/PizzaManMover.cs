@@ -108,7 +108,7 @@ public class PizzaManMover : MonoBehaviour
         // trying out a death sequence - Gary
         if (co.name == "pizzarat")
         {
-            //Destroy(co.gameObject);
+            
             rat.GetComponent<PlayerController>().ratIsDead = true;
             source.Play();
         }
