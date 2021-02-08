@@ -25,6 +25,15 @@ public class PizzaManMover : MonoBehaviour
     //private Node current, target, previous;
     //private Vector2 dir, nextdir;
 
+
+
+    public SpriteRenderer manSpriteRenderer;
+    //for death - Gary
+    public GameObject rat;
+    Animator ratDeath;
+    bool ratIsDead;
+    private AudioSource source;
+
     void Start ()
     {
         /*
@@ -43,6 +52,12 @@ public class PizzaManMover : MonoBehaviour
 
         Debug.Log (target);
         */
+
+
+        manSpriteRenderer = GetComponent<SpriteRenderer>();
+        ratDeath = rat.GetComponent<Animator>();
+        source = GetComponent<AudioSource>();
+
     }
 
     void FixedUpdate () {
@@ -62,14 +77,43 @@ public class PizzaManMover : MonoBehaviour
         //Move();
 
         // Animation
-    //    Vector2 dir = waypoints[cur].position - transform.position;
-     //   GetComponent<Animator>().SetFloat("DirX", dir.x);
-      //  GetComponent<Animator>().SetFloat("DirY", dir.y);
+        Vector2 dir = waypoints[cur].position - transform.position;
+        GetComponent<Animator>().SetFloat("DirX", dir.x);
+        GetComponent<Animator>().SetFloat("DirY", dir.y);
+
+
+
+        //Sprite Flipping - Gary
+        if (dir.x > 0)
+        {
+            if (manSpriteRenderer != null)
+            {
+                manSpriteRenderer.flipX = false;
+            }
+        }
+
+        if (dir.x < 0)
+        {
+            if (manSpriteRenderer != null)
+            {
+                manSpriteRenderer.flipX = true;
+            }
+        }
+
+
     }
 
     void OnTriggerEnter2D(Collider2D co) {
+
+        // trying out a death sequence - Gary
         if (co.name == "pizzarat")
-            Destroy(co.gameObject);
+        {
+            //Destroy(co.gameObject);
+            rat.GetComponent<PlayerController>().ratIsDead = true;
+            source.Play();
+        }
+         
+
     }
 /*
     void Move()

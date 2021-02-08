@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -15,7 +17,11 @@ public class PlayerController : MonoBehaviour
     //Sprite Renderer Ref -Gary
     private SpriteRenderer ratSpriteRenderer;
 
-
+    //Death and Score
+    public bool ratIsDead;
+    private AudioSource source;
+    public int lives;
+    //public Text;
 
     void Start() {
         //dest = transform.position;
@@ -26,6 +32,21 @@ public class PlayerController : MonoBehaviour
         //Allows me to flip sprites -Gary
         ratSpriteRenderer = GetComponent<SpriteRenderer>();
 
+        //Death Stuff
+
+        ratIsDead = false;
+        source = GetComponent<AudioSource>();
+        lives = 3;
+
+    }
+
+
+   // takes away life and reloads scene - Gary
+    IEnumerator LoseLife()
+    {
+        yield return new WaitForSeconds(2);
+        
+        SceneManager.LoadScene("Prototype");
     }
 
     void FixedUpdate() {
@@ -34,8 +55,15 @@ public class PlayerController : MonoBehaviour
         Vector2 p = Vector2.MoveTowards(transform.position, dest, speed);
         GetComponent<Rigidbody2D>().MovePosition(p);
 
-        // Check for Input if not moving
-
+        // Kills rat, stops player from moving
+        if (ratIsDead == true)
+        {
+           animator.SetBool("IsDead", true);
+            StartCoroutine(LoseLife());
+            
+           return;
+        
+        }
 
         //Check for no input for idle -Gary
         if (!Input.anyKey)
@@ -110,6 +138,9 @@ public class PlayerController : MonoBehaviour
             }
         } 
 
+
+
+      
 
 
 
