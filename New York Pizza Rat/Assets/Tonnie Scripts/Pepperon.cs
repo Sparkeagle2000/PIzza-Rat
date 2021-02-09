@@ -20,6 +20,7 @@ public class Pepperon : MonoBehaviour
         if (co.name == "pizzarat" && count == 0)
         {
             scoreScript.pepperoni++;
+            Debug.Log(scoreScript.pepperoni);
             source.Play();
             scoreScript.score += 100;
             GetComponent<SpriteRenderer>().enabled = false;

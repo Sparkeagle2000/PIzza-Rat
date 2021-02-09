@@ -21,11 +21,11 @@ public class scoreScript : MonoBehaviour
     void Update()
     {
         scoreText.text = "SCORE " + "" + score;
-        if(pepperoni==99)
+        if(pepperoni==96)
         {
             SceneManager.LoadScene("Level2");
         }
-        if(pepperoni==198)
+        if(pepperoni==192)
         {
             WinScreen.SetActive(true);
         }

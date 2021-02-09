@@ -6,6 +6,7 @@ public class Fruit : MonoBehaviour
 {
 
     private int count = 0;
+    private float time=3.0f;
 
     private AudioSource source;
 
@@ -13,8 +14,12 @@ public class Fruit : MonoBehaviour
     // Start is called before the first frame update
     private void Start()
     {
-        Timer();
         source = GetComponent<AudioSource>();
+    }
+
+    void Update()
+    {
+        Timer();
     }
     void OnTriggerEnter2D(Collider2D co)
     {
@@ -29,7 +34,6 @@ public class Fruit : MonoBehaviour
     }
     void Timer ()
     {
-        float time=3.0f;
         time-=Time.deltaTime;
         if(time<=0)
         {
