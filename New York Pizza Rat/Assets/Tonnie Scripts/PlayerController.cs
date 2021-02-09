@@ -10,6 +10,10 @@ public class PlayerController : MonoBehaviour
     //private Vector2 dest; // = Vector2.zero;
     //Rigidbody2D rb;
     Vector2 dest = Vector2.zero;
+    public GameObject Bomino;
+    public GameObject Papa;
+    public GameObject Caesar;
+    public GameObject Hut;
 
     //Accesses animations -Gary
     public Animator animator;
@@ -47,12 +51,17 @@ public class PlayerController : MonoBehaviour
     IEnumerator LoseLife()
     {
         yield return new WaitForSeconds(2);
+        Bomino.GetComponent<PizzaManMover>().RoundTimer();
+        Papa.GetComponent<PizzaManMover>().RoundTimer();
+        Caesar.GetComponent<PizzaManMover>().RoundTimer();
+        Hut.GetComponent<PizzaManMover>().RoundTimer();
 
         //For hard level reset only
         //  SceneManager.LoadScene("Prototype");
 
         transform.position = startPosition;
         animator.SetBool("IsDead", false);
+        ratIsDead=false;
 
 
     }

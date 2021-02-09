@@ -114,7 +114,7 @@ public class PizzaManMover : MonoBehaviour
         {
             rat.GetComponent<PlayerController>().ratIsDead = true;
             source.Play();
-            StartCoroutine(RoundTimer());
+            
         }
         else if (co.name == "pizzarat" && run == true)
         {
@@ -147,9 +147,8 @@ public class PizzaManMover : MonoBehaviour
     }
 
 
-    IEnumerator RoundTimer()
+    public void RoundTimer()
     {
-        yield return new WaitForSeconds(2);
         transform.position = startingpos;
         cur = 0;
     }

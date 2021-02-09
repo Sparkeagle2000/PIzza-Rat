@@ -12109,9 +12109,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.1
+  Bomino: {fileID: 1495777905}
+  Papa: {fileID: 1122307579}
+  Caesar: {fileID: 1767231575}
+  Hut: {fileID: 1459753935}
   animator: {fileID: 2097953875}
   ratIsDead: 0
   lives: 0
+  startPosition: {x: 0, y: 0}
 --- !u!212 &2097953871
 SpriteRenderer:
   m_ObjectHideFlags: 0
