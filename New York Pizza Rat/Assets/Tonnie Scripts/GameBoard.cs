@@ -7,6 +7,10 @@ public class GameBoard : MonoBehaviour
     private static int boardWidth=13;
     private static int boardHeight=20;
     public GameObject[,] board=new GameObject[boardWidth,boardHeight];
+
+
+
+
     // Start is called before the first frame update
     void Start()
     {

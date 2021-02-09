@@ -24,9 +24,10 @@ public class PlayerController : MonoBehaviour
     //Death and Score
     public bool ratIsDead;
     private AudioSource source;
-    public int lives;
-
+    
     public Vector2 startPosition;
+
+   
 
     void Start() {
         //dest = transform.position;
@@ -41,7 +42,7 @@ public class PlayerController : MonoBehaviour
 
         ratIsDead = false;
         source = GetComponent<AudioSource>();
-        lives = 3;
+       
 
         startPosition = transform.position;
     }
@@ -59,6 +60,7 @@ public class PlayerController : MonoBehaviour
         //For hard level reset only
         //  SceneManager.LoadScene("Prototype");
 
+        
         transform.position = startPosition;
         animator.SetBool("IsDead", false);
         ratIsDead=false;
@@ -75,6 +77,7 @@ public class PlayerController : MonoBehaviour
         // Kills rat, stops player from moving
         if (ratIsDead == true)
         {
+
            animator.SetBool("IsDead", true);
             StartCoroutine(LoseLife());
             

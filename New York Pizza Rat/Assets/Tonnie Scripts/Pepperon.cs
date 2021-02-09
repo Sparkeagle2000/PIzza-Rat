@@ -1,10 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Pepperon : MonoBehaviour
 {
-    private int count=0;
+    private int count = 0;
 
     private AudioSource source;
 
@@ -14,8 +15,9 @@ public class Pepperon : MonoBehaviour
     {
         source = GetComponent<AudioSource>();
     }
-    void OnTriggerEnter2D(Collider2D co) {
-        if (co.name == "pizzarat"&&count==0)
+    void OnTriggerEnter2D(Collider2D co)
+    {
+        if (co.name == "pizzarat" && count == 0)
         {
             source.Play();
             scoreScript.score += 100;

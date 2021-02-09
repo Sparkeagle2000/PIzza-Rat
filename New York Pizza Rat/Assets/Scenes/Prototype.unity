@@ -134,6 +134,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.9749112
@@ -273,6 +277,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4
@@ -330,6 +338,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (53)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4.974911
@@ -604,6 +616,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -7.974911
@@ -666,6 +682,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.9749112
@@ -723,6 +743,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4
@@ -790,6 +814,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -1255,6 +1283,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4
@@ -1317,6 +1349,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4
@@ -1374,6 +1410,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (45)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -8.974911
@@ -1540,6 +1580,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -3.9749112
@@ -1612,6 +1656,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.9749112
@@ -1669,6 +1717,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.974911
@@ -1778,6 +1830,108 @@ MonoBehaviour:
   - {x: 1, y: 0}
   - {x: 0, y: 1}
   - {x: 0, y: -1}
+--- !u!1 &387770447
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 387770448}
+  - component: {fileID: 387770450}
+  - component: {fileID: 387770449}
+  m_Layer: 0
+  m_Name: Onion
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &387770448
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 387770447}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -32.05, y: 1.39, z: -64.223785}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 31
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &387770449
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 387770447}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 0
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!95 &387770450
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 387770447}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d7848041c5c723047bcf53ed501b9d3f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &404304450
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1789,6 +1943,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2
@@ -1846,6 +2004,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2
@@ -1903,6 +2065,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4
@@ -2040,6 +2206,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2
@@ -2097,6 +2267,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2
@@ -2365,6 +2539,7 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 1047749143}
+  - {fileID: 1112390701}
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2488,6 +2663,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4.974911
@@ -2605,6 +2784,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2
@@ -2692,6 +2875,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -3.9749112
@@ -2749,6 +2936,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2
@@ -2806,6 +2997,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (58)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -7.974911
@@ -2898,6 +3093,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2
@@ -3058,6 +3257,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.974911
@@ -3145,6 +3348,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (55)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.9749112
@@ -3202,6 +3409,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4
@@ -3294,6 +3505,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2
@@ -3351,6 +3566,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -3.9749112
@@ -3420,6 +3639,10 @@ PrefabInstance:
       propertyPath: Hut
       value: 
       objectReference: {fileID: 1459753935}
+    - target: {fileID: 7451009034586010888, guid: 3c6a20575cf72cb41a000537567ba7bb, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 7451009034586010890, guid: 3c6a20575cf72cb41a000537567ba7bb, type: 3}
       propertyPath: m_SortingOrder
       value: 2
@@ -3493,6 +3716,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4.974911
@@ -3550,6 +3777,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.9749112
@@ -3646,6 +3877,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6.974911
@@ -3733,6 +3968,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -7.974911
@@ -3800,6 +4039,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4
@@ -3943,6 +4186,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1
@@ -4797,6 +5044,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1
@@ -4854,6 +5105,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -8.974911
@@ -4928,6 +5183,10 @@ PrefabInstance:
       propertyPath: Hut
       value: 
       objectReference: {fileID: 1459753935}
+    - target: {fileID: 7451009034586010888, guid: 3c6a20575cf72cb41a000537567ba7bb, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 7451009034586010890, guid: 3c6a20575cf72cb41a000537567ba7bb, type: 3}
       propertyPath: m_SortingOrder
       value: 2
@@ -5001,6 +5260,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.9749112
@@ -5058,6 +5321,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6.974911
@@ -5203,6 +5470,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -3.9749112
@@ -5342,6 +5613,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4
@@ -5399,6 +5674,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4
@@ -5461,6 +5740,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2
@@ -5518,6 +5801,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6.974911
@@ -5575,6 +5862,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4
@@ -5744,6 +6035,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4
@@ -5806,6 +6101,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -7.974911
@@ -5963,6 +6262,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2
@@ -6241,6 +6544,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2
@@ -6328,6 +6635,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4.974911
@@ -6374,6 +6685,101 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+--- !u!1 &1112390700
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1112390701}
+  - component: {fileID: 1112390704}
+  - component: {fileID: 1112390703}
+  - component: {fileID: 1112390702}
+  m_Layer: 5
+  m_Name: Lives
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1112390701
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1112390700}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 518808457}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 380, y: 168}
+  m_SizeDelta: {x: 160, y: 30}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1112390702
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1112390700}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48197ac4c1f1f374ca8cdcd9bcd5dd90, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  livesText: {fileID: 0}
+--- !u!114 &1112390703
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1112390700}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: f87119a698dc5ff4c90afbe90e18c5ac, type: 3}
+    m_FontSize: 55
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 65
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 1
+    m_VerticalOverflow: 1
+    m_LineSpacing: 1
+  m_Text: 'X
+
+'
+--- !u!222 &1112390704
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1112390700}
+  m_CullTransparentMesh: 0
 --- !u!1 &1122307579 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3770429166468118741, guid: 05dbd531c1d2b1c4bb2210403f01b7a5, type: 3}
@@ -6526,6 +6932,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -8.974911
@@ -6665,6 +7075,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.9749112
@@ -6811,6 +7225,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (49)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.9749112
@@ -6868,6 +7286,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -8.974911
@@ -7175,6 +7597,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -8.974911
@@ -7267,6 +7693,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -8.974911
@@ -7324,6 +7754,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2
@@ -7451,6 +7885,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (57)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6.974911
@@ -7508,6 +7946,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -3.9749112
@@ -7593,6 +8035,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4.974911
@@ -7650,6 +8096,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (45)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4
@@ -7707,6 +8157,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2
@@ -7794,6 +8248,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2
@@ -7851,6 +8309,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.9749112
@@ -7902,6 +8364,108 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
   m_PrefabInstance: {fileID: 1654646692}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1430996499
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1430996500}
+  - component: {fileID: 1430996502}
+  - component: {fileID: 1430996501}
+  m_Layer: 0
+  m_Name: Pina
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1430996500
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1430996499}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -27.86, y: 4.33, z: -64.223785}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 32
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1430996501
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1430996499}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 0
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!95 &1430996502
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1430996499}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 6f0b1a86ffb7cff42b4193469410c738, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &1449444992
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7913,6 +8477,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.9749112
@@ -8128,6 +8696,88 @@ MonoBehaviour:
   validDirections:
   - {x: 1, y: 0}
   - {x: 0, y: 1}
+--- !u!1 &1460077597
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1460077599}
+  - component: {fileID: 1460077598}
+  m_Layer: 0
+  m_Name: House
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1460077598
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1460077597}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: -1457681745
+  m_SortingLayer: 1
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: eb23c3b2d196736408e352ba81a1bd66, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1.125, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1460077599
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1460077597}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 29
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1476907611
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8390,6 +9040,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1
@@ -8563,6 +9217,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.974911
@@ -8620,6 +9278,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.974911
@@ -8677,6 +9339,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1
@@ -8728,6 +9394,108 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
   m_PrefabInstance: {fileID: 1184767704}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1549132276
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1549132279}
+  - component: {fileID: 1549132278}
+  - component: {fileID: 1549132277}
+  m_Layer: 0
+  m_Name: Pepper
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1549132277
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1549132276}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 0
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!95 &1549132278
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1549132276}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 35b74d845238e584d9105a4667efca95, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!4 &1549132279
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1549132276}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -25.38, y: 5.694419, z: -64.223785}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 30
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1565177786
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8739,6 +9507,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2
@@ -8977,6 +9749,10 @@ PrefabInstance:
       propertyPath: animator
       value: 
       objectReference: {fileID: 1122307580}
+    - target: {fileID: 8759775715731010545, guid: 05dbd531c1d2b1c4bb2210403f01b7a5, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05dbd531c1d2b1c4bb2210403f01b7a5, type: 3}
 --- !u!1001 &1622953543
@@ -8990,6 +9766,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -8.974911
@@ -9285,6 +10065,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2
@@ -9342,6 +10126,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2
@@ -9399,6 +10187,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.9749112
@@ -9456,6 +10248,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.9749112
@@ -9513,6 +10309,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4
@@ -9682,6 +10482,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4
@@ -9744,6 +10548,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4.974911
@@ -9977,6 +10785,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -7.974911
@@ -10039,6 +10851,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6.974911
@@ -10096,6 +10912,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.974911
@@ -10346,6 +11166,10 @@ PrefabInstance:
       propertyPath: Hut
       value: 
       objectReference: {fileID: 1459753935}
+    - target: {fileID: 7451009034586010888, guid: 3c6a20575cf72cb41a000537567ba7bb, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 7451009034586010890, guid: 3c6a20575cf72cb41a000537567ba7bb, type: 3}
       propertyPath: m_SortingOrder
       value: 2
@@ -10431,6 +11255,10 @@ PrefabInstance:
       propertyPath: Hut
       value: 
       objectReference: {fileID: 1459753935}
+    - target: {fileID: 7451009034586010888, guid: 3c6a20575cf72cb41a000537567ba7bb, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 7451009034586010890, guid: 3c6a20575cf72cb41a000537567ba7bb, type: 3}
       propertyPath: m_SortingOrder
       value: 2
@@ -10619,6 +11447,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2
@@ -10665,6 +11497,108 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+--- !u!1 &1850135004
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1850135005}
+  - component: {fileID: 1850135007}
+  - component: {fileID: 1850135006}
+  m_Layer: 0
+  m_Name: Shroom
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1850135005
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1850135004}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -28.56, y: -1.16, z: -64.223785}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 33
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1850135006
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1850135004}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!95 &1850135007
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1850135004}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7e4eb1faaa7e55a4dbb93a77a65ac243, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1855320917
 GameObject:
   m_ObjectHideFlags: 0
@@ -10750,6 +11684,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4
@@ -10807,6 +11745,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1
@@ -10929,6 +11871,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.9749112
@@ -11122,6 +12068,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4
@@ -11258,6 +12208,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.9749112
@@ -11502,6 +12456,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2
@@ -11559,6 +12517,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.9749112
@@ -11646,6 +12608,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -8.974911
@@ -11703,6 +12669,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.9749112
@@ -11760,6 +12730,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.9749112
@@ -11817,6 +12791,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2
@@ -11956,6 +12934,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -12023,6 +13005,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1
@@ -12115,7 +13101,6 @@ MonoBehaviour:
   Hut: {fileID: 1459753935}
   animator: {fileID: 2097953875}
   ratIsDead: 0
-  lives: 0
   startPosition: {x: 0, y: 0}
 --- !u!212 &2097953871
 SpriteRenderer:
@@ -12360,6 +13345,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pepperoni_0 (56)
       objectReference: {fileID: 0}
+    - target: {fileID: 4597236695165073528, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     - target: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.9749112
@@ -12652,6 +13641,10 @@ PrefabInstance:
       propertyPath: animator
       value: 
       objectReference: {fileID: 1495777911}
+    - target: {fileID: 8759775715731010545, guid: 05dbd531c1d2b1c4bb2210403f01b7a5, type: 3}
+      propertyPath: score
+      value: 
+      objectReference: {fileID: 1047749144}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05dbd531c1d2b1c4bb2210403f01b7a5, type: 3}
 --- !u!1001 &3258918866404020654

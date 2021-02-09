@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Energizer : MonoBehaviour
 {
@@ -13,10 +14,12 @@ public class Energizer : MonoBehaviour
     private AudioSource source;
     // Start is called before the first frame update
 
+    
 
     private void Start()
     {
         source = GetComponent<AudioSource>();
+       
     }
 
     void OnTriggerEnter2D (Collider2D co)
@@ -24,6 +27,7 @@ public class Energizer : MonoBehaviour
         if(co.name == "pizzarat"&&count==0)
         {
             source.Play();
+            scoreScript.score += 500;
             Bomino.GetComponent<PizzaManMover>().RunEnergizer();
             Papa.GetComponent<PizzaManMover>().RunEnergizer();
             Caesar.GetComponent<PizzaManMover>().RunEnergizer();

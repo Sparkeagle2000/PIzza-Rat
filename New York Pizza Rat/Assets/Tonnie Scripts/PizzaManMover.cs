@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PizzaManMover : MonoBehaviour
 {
@@ -37,6 +38,9 @@ public class PizzaManMover : MonoBehaviour
 
     public Animator animator;
 
+
+    
+
     void Start ()
     {
         /*
@@ -61,7 +65,7 @@ public class PizzaManMover : MonoBehaviour
         ratDeath = rat.GetComponent<Animator>();
         source = GetComponent<AudioSource>();
 
-
+      
 
     }
 
@@ -112,12 +116,14 @@ public class PizzaManMover : MonoBehaviour
     void OnTriggerEnter2D(Collider2D co) {
         if (co.name == "pizzarat" && run == false)
         {
+            livesScript.lives -= 1;
             rat.GetComponent<PlayerController>().ratIsDead = true;
             source.Play();
             
         }
         else if (co.name == "pizzarat" && run == true)
         {
+            scoreScript.score += 1000;
             GetComponent<SpriteRenderer>().enabled = false;
             StartCoroutine(Timer(3));
             
