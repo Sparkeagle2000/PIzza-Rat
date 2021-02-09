@@ -7014,7 +7014,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Character / Nickname
+  m_Text: CHARACTER / NICKNAME
 --- !u!222 &1253734683
 CanvasRenderer:
   m_ObjectHideFlags: 0
