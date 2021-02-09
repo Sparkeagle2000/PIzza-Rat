@@ -4,7 +4,10 @@ using UnityEngine;
 
 public class Energizer : MonoBehaviour
 {
-    PizzaManMover pizzaman;
+    public GameObject Bomino;
+    public GameObject Papa;
+    public GameObject Caesar;
+    public GameObject Hut;
     private int count;
 
     private AudioSource source;
@@ -21,8 +24,10 @@ public class Energizer : MonoBehaviour
         if(co.name == "pizzarat"&&count==0)
         {
             source.Play();
-            pizzaman =GameObject.FindGameObjectWithTag("pman").GetComponent<PizzaManMover>();
-            pizzaman.RunEnergizer();
+            Bomino.GetComponent<PizzaManMover>().RunEnergizer();
+            Papa.GetComponent<PizzaManMover>().RunEnergizer();
+            Caesar.GetComponent<PizzaManMover>().RunEnergizer();
+            Hut.GetComponent<PizzaManMover>().RunEnergizer();
             GetComponent<SpriteRenderer>().enabled = false;
             count++;
         }

@@ -7,6 +7,7 @@ public class PizzaManMover : MonoBehaviour
     public Transform[] waypoints;
     int cur = 0;
     public bool run=false;
+    private Vector2 startingpos;
 
     public float speed;
     //public Node startingpos;
@@ -54,6 +55,7 @@ public class PizzaManMover : MonoBehaviour
 
         Debug.Log (target);
         */
+        startingpos=transform.position;
 
         manSpriteRenderer = GetComponent<SpriteRenderer>();
         ratDeath = rat.GetComponent<Animator>();
@@ -114,24 +116,33 @@ public class PizzaManMover : MonoBehaviour
             source.Play();
         }
         else if (co.name == "pizzarat" && run == true)
-            Destroy(this.gameObject);
+        {
+            GetComponent<SpriteRenderer>().enabled = false;
+            StartCoroutine(Timer(3));
+            
+        }
     }
 
     public void RunEnergizer()
     {
-        float countdown=6.0f;
         run=true;
         animator.SetBool("Run", true);
-        while(countdown>0)
+        StartCoroutine(Timer(6));
+    }
+
+    IEnumerator Timer (int i)
+    {
+        yield return new WaitForSeconds(i);
+        Debug.Log("Run is false now");
+        run=false;
+        animator.SetBool("Run", false);
+        if(GetComponent<SpriteRenderer>().enabled == false)
         {
-            countdown-=Time.deltaTime;
+            cur=0;
+            transform.position=startingpos;
+            GetComponent<SpriteRenderer>().enabled = true;
         }
-        if(countdown<=0)
-        {
-            Debug.Log("Run is false now");
-            run=false;
-            animator.SetBool("Run", false);
-        }
+
     }
 /*
     void Move()
