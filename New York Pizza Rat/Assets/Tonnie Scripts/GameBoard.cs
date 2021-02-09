@@ -1,35 +1,50 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class GameBoard : MonoBehaviour
 {
-    private static int boardWidth=13;
-    private static int boardHeight=20;
-    public GameObject[,] board=new GameObject[boardWidth,boardHeight];
-
-
-
+    private int count;
+    private int fruit;
+    public GameObject onion; 
+    public GameObject pepper;
+    public GameObject shroom;
+    public GameObject pina;
+    private bool taco=false;
 
     // Start is called before the first frame update
     void Start()
     {
-        Object[] objects=GameObject.FindObjectsOfType(typeof(GameObject));
+        StartCoroutine(SpawnFruit());
+    }
 
-        foreach (GameObject o in objects)
+    IEnumerator SpawnFruit()
+    {
+        while(taco==false)
         {
-            Vector2 pos=o.transform.position;
-            if(o.tag!="pizzarat")
+            count=Random.Range(6,10);
+            fruit=Random.Range(1,4);
+            yield return new WaitForSeconds(count);
+            if(fruit==1)
             {
-                board [(int)pos.x,(int)pos.y]=o;
+                Instantiate(onion, new Vector2(0, 0), Quaternion.identity);
+            }
+            if(fruit==2)
+            {
+                Instantiate(pepper, new Vector2(0, 0), Quaternion.identity);
+            }
+            if(fruit==3)
+            {
+                Instantiate(shroom, new Vector2(0, 0), Quaternion.identity);
+            }
+            if(fruit==4)
+            {
+                Instantiate(pina, new Vector2(0, 0), Quaternion.identity);
             }
         }
+
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
 
