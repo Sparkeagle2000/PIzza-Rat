@@ -6149,7 +6149,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06202f426c321f84aa3a73f18e7f205c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreText: {fileID: 0}
+  WinScreen: {fileID: 513588963}
+  scoreText: {fileID: 1047749144}
 --- !u!4 &1057109884 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 9189668377232065932, guid: 8a914a95e3b941840825d0da4c08383c, type: 3}
@@ -6639,7 +6640,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 48197ac4c1f1f374ca8cdcd9bcd5dd90, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  livesText: {fileID: 0}
+  loseScreen: {fileID: 1907816724}
+  livesText: {fileID: 1112390703}
 --- !u!114 &1112390703
 MonoBehaviour:
   m_ObjectHideFlags: 0

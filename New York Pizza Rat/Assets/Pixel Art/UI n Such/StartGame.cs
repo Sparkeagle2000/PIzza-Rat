@@ -16,6 +16,7 @@ public class StartGame : MonoBehaviour
     {
         scoreScript.score = 0;
         livesScript.lives = 9;
+        scoreScript.pepperoni=0;
         SceneManager.LoadScene("Prototype");
     }
 }

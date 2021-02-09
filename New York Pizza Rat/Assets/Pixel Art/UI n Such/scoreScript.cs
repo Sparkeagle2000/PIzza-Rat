@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 public class scoreScript : MonoBehaviour
 {
 
-
+    public GameObject WinScreen;
     public static int score = 0;
     public static int pepperoni=0;
     public Text scoreText;
@@ -27,7 +27,7 @@ public class scoreScript : MonoBehaviour
         }
         if(pepperoni==198)
         {
-            
+            WinScreen.SetActive(true);
         }
     }
 }

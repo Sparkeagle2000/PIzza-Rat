@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class livesScript : MonoBehaviour
 {
-
+    public GameObject loseScreen;
     public static int lives = 9;
     public Text livesText;
 
@@ -19,5 +19,9 @@ public class livesScript : MonoBehaviour
     void Update()
     {
         livesText.text = "X " + lives;
+        if(lives<=0)
+        {
+            loseScreen.SetActive(true);
+        }
     }
 }
